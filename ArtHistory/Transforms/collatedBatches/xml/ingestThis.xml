@@ -1,0 +1,1077 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<input xmlns:dc="http://purl.org/dc/elements/1.1/"
+       xmlns:dcadesc="http://nils.lib.tufts.edu/dcadesc/"
+       xmlns:dcatech="http://nils.lib.tufts.edu/dcatech/"
+       xmlns:dcterms="http://purl.org/dc/terms/"
+       xmlns:admin="http://nils.lib.tufts.edu/dcaadmin/"
+       xmlns:ac="http://purl.org/dc/dcmitype/"
+       xmlns:rel="info:fedora/fedora-system:def/relations-external#"
+       xmlns:alex="http:alex.edu">
+   <digitalObject>
+      <file>14.8493-6.1.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>The Ficoroni Cista.</dc:title>
+      <dc:creator>Plautius, Novius.</dc:creator>
+      <dc:description>This shows the frontal view of a cista, a cylindrical container used by the wealthy to hold toiletry items like perfume or cosmetics. This cista was named after an 18th century owner and was commissioned by an Etruscan woman named Dindia Macolnia as a gift for her daughter.</dc:description>
+      <dc:description>Location created: Palestrina.</dc:description>
+      <dc:description>Date created: 350-300 BCE.</dc:description>
+      <dc:description>Current location: Museo Nazionale di Villa Giulia, Rome.</dc:description>
+      <dc:description>Medium: Bronze.</dc:description>
+      <dc:description>Measurements: 2' 6 ¼" (78.6 cm)</dc:description>
+      <dc:description>Accession Number: 14.8493-6.1</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>-0300</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Art objects, Etruscan.</dcadesc:subject>
+      <dcadesc:subject>Bronzes, Etruscan.</dcadesc:subject>
+      <dcadesc:subject>Cists (Boxes)</dcadesc:subject>
+      <dcadesc:genre>cistae (toiletry containers)</dcadesc:genre>
+      <dcadesc:genre>bronzes (visual works)</dcadesc:genre>
+      <dcadesc:genre>Late Etruscan.</dcadesc:genre>
+      <dc:temporal>4th century BCE.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-08-12T11:01:53.427-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>14.8493-6.2.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Porta Augusta.</dc:title>
+      <dc:description>Walls with protective gates and towers surrounded Etruscan cities. The city gate of Porta Augusta shown here is one of the few surviving examples of Etruscan monumental architecture, and shows an arched portal with semicircular barrel vault over its passageway. This gate is significant for anticipating the Roman use of the round arch, which is extended here to create a semicircular barrel vault over the passageway.</dc:description>
+      <dc:description>Location created: Perugia, Italy.</dc:description>
+      <dc:description>Date created: 3rd-2nd century BCE.</dc:description>
+      <dc:description>Accession Number: 14.8493-6.2</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>-0200</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Architecture, Etruscan.</dcadesc:subject>
+      <dcadesc:subject>Gates.</dcadesc:subject>
+      <dcadesc:subject>Arches.</dcadesc:subject>
+      <dcadesc:geogname>Perugia (Italy)</dcadesc:geogname>
+      <dcadesc:genre>city gates.</dcadesc:genre>
+      <dcadesc:genre>arches.</dcadesc:genre>
+      <dcadesc:genre>barrel vaults.</dcadesc:genre>
+      <dcadesc:genre>Late Etruscan.</dcadesc:genre>
+      <dc:temporal>2nd century BCE.</dc:temporal>
+      <dc:spatial>Italy--Perugia.</dc:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-08-12T11:01:53.427-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>14.8493-6.3a.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Model of an Etruscan Temple.</dc:title>
+      <dcterms:contributor>Vitruvius Pollio.</dcterms:contributor>
+      <dc:description>This model was created based on descriptions by Vitruvius, who compiled notes on Etruscan architecture between 33 and 23 BCE. Like the Greeks, Etruscans used post-and-lintels, gable roofs, and capitals recalling the Doric or Ionic order, as shown in this reconstruction.</dc:description>
+      <dc:description>Accession Number: 14.8493-6.3a</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>-0023</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Architecture, Etruscan.</dcadesc:subject>
+      <dcadesc:subject>Architectural models.</dcadesc:subject>
+      <dcadesc:subject>Temples, Etruscan.</dcadesc:subject>
+      <dcadesc:genre>temples (buildings)</dcadesc:genre>
+      <dcadesc:genre>Late Etruscan.</dcadesc:genre>
+      <dc:temporal>1st century BCE.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-08-12T11:01:53.427-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>14.8493-6.3b.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Plan of an Etruscan Temple.</dc:title>
+      <dcterms:contributor>Vitruvius Pollio.</dcterms:contributor>
+      <dc:description>This plan was created based on descriptions by Vitruvius, who compiled notes on Etruscan architecture between 33 and 23 BCE. Like the Greeks, Etruscans used post-and-lintels, gable roofs, and capitals recalling the Doric or Ionic order, as shown in this plan.</dc:description>
+      <dc:description>Accession Number: 14.8493-6.3b</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>-0023</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Architecture, Etruscan.</dcadesc:subject>
+      <dcadesc:subject>Floor plans.</dcadesc:subject>
+      <dcadesc:subject>Temples, Etruscan.</dcadesc:subject>
+      <dcadesc:genre>temples (buildings)</dcadesc:genre>
+      <dcadesc:genre>Late Etruscan.</dcadesc:genre>
+      <dcadesc:genre>floor plans.</dcadesc:genre>
+      <dc:temporal>1st century BCE.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-08-12T11:01:53.427-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>14.8493-6.4.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Apollo.</dc:title>
+      <dc:creator>Vulca.</dc:creator>
+      <dc:description>This life-size statue of the god Apollo, with strong body, stylized drapery, and "archaic smile", shows that Etruscan sculptors were familiar with Archaic Greek counterparts. However, the forward-moving, dynamic stance of the figure is characteristic of the puposeful movement which defines Etruscan art.</dc:description>
+      <dc:description>Location created: Temple of Minerva, Portonaccio, Veii (Italy)</dc:description>
+      <dc:description>Date created: c. 510-500 BCE.</dc:description>
+      <dc:description>Current location: Nuseo Nazionale di Villa Giulia, Rome.</dc:description>
+      <dc:description>Medium: Painted terra cotta</dc:description>
+      <dc:description>Measurements: 1.8m tall.</dc:description>
+      <dc:description>Accession Number: 14.8493-6.4</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>-0500</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Terra-cotta sculpture, Etruscan.</dcadesc:subject>
+      <dcadesc:subject>Statues--Italy.</dcadesc:subject>
+      <dcadesc:persname>Apollo (Deity)</dcadesc:persname>
+      <dcadesc:genre>Late Etruscan.</dcadesc:genre>
+      <dcadesc:genre>terracottas (sculptural works)</dcadesc:genre>
+      <dcadesc:genre>statues.</dcadesc:genre>
+      <dc:temporal>6th century BCE.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-08-12T11:01:53.427-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>14.8493-6.5.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Façade of Library of Celsus, Ephesus.</dc:title>
+      <dc:description>The Etruscans and Romans adapted the Greek architectural orders, often using them as applied decoration on walls. This capital from the Library of Celsus shows the architrave, frieze, and cornice in Composite order, which combines the volutes of Greek Ionic capitals with the acanthus leaves from the Corinthian order.</dc:description>
+      <dc:description>Location created: Modern Turkey.</dc:description>
+      <dc:description>Date created: 135 CE.</dc:description>
+      <dc:description>Medium: marble.</dc:description>
+      <dc:description>Accession Number: 14.8493-6.5</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>0135</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Architecture, Etruscan.</dcadesc:subject>
+      <dcadesc:subject>Columns--Italy.</dcadesc:subject>
+      <dcadesc:geogname>Ephesus (Extinct city)</dcadesc:geogname>
+      <dcadesc:genre>Composite order.</dcadesc:genre>
+      <dcadesc:genre>façades.</dcadesc:genre>
+      <dcadesc:genre>columns (architectural elements)</dcadesc:genre>
+      <dcadesc:genre>marble (rock)</dcadesc:genre>
+      <dc:temporal>2nd century.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-08-12T11:01:53.427-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>14.8493-6.6.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Boys Climbing Rocks and Diving, Tombs of Hunting and Fish.</dc:title>
+      <dc:description>This wall painting is in a late 6th-century BCE tomb from Tarquina and shows boys in the country, swimming in a pool and jumping off a rock. Scenes such as these, removed from the routine demands of daily life, seem to promise a pleasureable post-mortem existance to the occupant of this tomb.</dc:description>
+      <dc:description>Location created: Tarquinia, Italy.</dc:description>
+      <dc:description>Date created: Late 6th century BCE.</dc:description>
+      <dc:description>Accession Number: 14.8493-6.6</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>-0500</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Tombs--Italy.</dcadesc:subject>
+      <dcadesc:subject>Etruscans--Funeral customs and rites.</dcadesc:subject>
+      <dcadesc:subject>Art, Etruscan.</dcadesc:subject>
+      <dcadesc:subject>Mural painting and decoration.</dcadesc:subject>
+      <dcadesc:subject>Birds in art.</dcadesc:subject>
+      <dcadesc:subject>Swimming in art.</dcadesc:subject>
+      <dcadesc:genre>Early Etruscan.</dcadesc:genre>
+      <dcadesc:genre>ancient Italian wall painting styles.</dcadesc:genre>
+      <dcadesc:genre>mural paintings (visual works)</dcadesc:genre>
+      <dcadesc:genre>funerary art.</dcadesc:genre>
+      <dc:temporal>6th century BCE.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-08-12T11:01:53.427-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>14.8493-6.7.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Dancers and Diners, Tomb of the Triclinium.</dc:title>
+      <dc:description>This wall painting from the Tomb of the Triclinium shows men and women dancing to the music from a lyre and double flute. The ceiling is covered in geometric designs and the base is covered in a design replicating water.</dc:description>
+      <dc:description>Location created: Tarquinia, Italy.</dc:description>
+      <dc:description>Date created: c. 480-470 BCE.</dc:description>
+      <dc:description>Accession Number: 14.8493-6.7</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>-0470</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Tombs--Italy.</dcadesc:subject>
+      <dcadesc:subject>Etruscans--Funeral customs and rites.</dcadesc:subject>
+      <dcadesc:subject>Art, Etruscan.</dcadesc:subject>
+      <dcadesc:subject>Mural painting and decoration.</dcadesc:subject>
+      <dcadesc:subject>Music in art.</dcadesc:subject>
+      <dcadesc:subject>Dance in art.</dcadesc:subject>
+      <dcadesc:genre>Early Etruscan.</dcadesc:genre>
+      <dcadesc:genre>ancient Italian wall painting styles.</dcadesc:genre>
+      <dcadesc:genre>mural paintings (visual works)</dcadesc:genre>
+      <dcadesc:genre>funerary art.</dcadesc:genre>
+      <dc:temporal>5th century BCE.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-08-12T11:01:53.427-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>14.8493-6.8.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Burial Chamber, Tomb of the Reliefs.</dc:title>
+      <dc:description>This tomb was carved out of rock to resemble a room, supported by carved posts with other fittings like pots, jugs, and axes carved into the design. The funeral banquet remains an important and vibrant theme for Etruscan funerary art throughout the course of the Etruscan civilization. This convivial and festive rendering demonstrates to us that the funeral banquet not only sent the deceased off to the afterlife but also reinforced ties and status reminders among the community of the living.</dc:description>
+      <dc:description>Location created: Cerveteri, Italy.</dc:description>
+      <dc:description>Date created: 3rd century BCE.</dc:description>
+      <dc:description>Accession Number: 14.8493-6.8</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>-0200</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Tombs--Italy.</dcadesc:subject>
+      <dcadesc:subject>Etruscans--Funeral customs and rites.</dcadesc:subject>
+      <dcadesc:subject>Art, Etruscan.</dcadesc:subject>
+      <dcadesc:genre>Late Etruscan.</dcadesc:genre>
+      <dcadesc:genre>bas-reliefs (sculpture)</dcadesc:genre>
+      <dcadesc:genre>funerary sculpture.</dcadesc:genre>
+      <dc:temporal>3rd century BCE.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-08-12T11:01:53.427-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>14.8493-6.9.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Reclining Couple on a Sarcophagus.</dc:title>
+      <dc:description>On this sarcophagus a husband and wife are shown reclining on a dining couch. The figures interact with each other, yet their bodies twist in an unnatural way.</dc:description>
+      <dc:description>Location created: Cerveteri, Italy.</dc:description>
+      <dc:description>Date created: c. 520 BCE.</dc:description>
+      <dc:description>Current location: Museo Nazionale di Villa Giulia, Rome.</dc:description>
+      <dc:description>Medium: terra cotta.</dc:description>
+      <dc:description>Measurements: 2.06m long.</dc:description>
+      <dc:description>Accession Number: 14.8493-6.9</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>-0520</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Terra-cotta sculpture, Etruscan.</dcadesc:subject>
+      <dcadesc:subject>Etruscans--Funeral customs and rites.</dcadesc:subject>
+      <dcadesc:subject>Art, Etruscan.</dcadesc:subject>
+      <dcadesc:subject>Sarcophagi.</dcadesc:subject>
+      <dcadesc:genre>Early Etruscan.</dcadesc:genre>
+      <dcadesc:genre>funerary sculpture.</dcadesc:genre>
+      <dcadesc:genre>sarcophagi (coffins)</dcadesc:genre>
+      <dcadesc:genre>terracottas (sculptural works)</dcadesc:genre>
+      <dc:temporal>6th century BCE.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-08-12T11:01:53.427-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>14.8493-6.10.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Married Couple (Larth Tetnies and Thanchvil Tarnai) Embracing.</dc:title>
+      <dcterms:alternative>Larth Tetnies and Thanchvil Tarnai</dcterms:alternative>
+      <dc:description>This Etruscan sarcophagus lid shows a couple embracing each other under a drape. The sculptor was influenced by Greek Classicism in the rendering of the human forms, but the human intimacy captured here is far removed from the detachment characterizing Greek funerary stelai.</dc:description>
+      <dc:description>Date created: c. 350-300 BCE.</dc:description>
+      <dc:description>Current location: Museum of Fine Arts, Boston.</dc:description>
+      <dc:description>Medium: Marble.</dc:description>
+      <dc:description>Measurements: 2.13m long.</dc:description>
+      <dc:description>Accession Number: 14.8493-6.10</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>-0300</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Terra-cotta sculpture, Etruscan.</dcadesc:subject>
+      <dcadesc:subject>Etruscans--Funeral customs and rites.</dcadesc:subject>
+      <dcadesc:subject>Art, Etruscan.</dcadesc:subject>
+      <dcadesc:subject>Sarcophagi.</dcadesc:subject>
+      <dcadesc:genre>Early Etruscan.</dcadesc:genre>
+      <dcadesc:genre>funerary sculpture.</dcadesc:genre>
+      <dcadesc:genre>sarcophagi (coffins)</dcadesc:genre>
+      <dcadesc:genre>marble (rock)</dcadesc:genre>
+      <dc:temporal>4th century BCE.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-08-12T11:01:53.427-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>14.8493-6.11.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Capitoline She-Wolf.</dc:title>
+      <dc:description>Considered an outstanding example of Etruscan sculpture, the wolf-like figure feeding two young boys below her has been lauded for its technical sophistication. The two boys were Renassance additions in the 15th century, and evoke the story of twins Romulus and Remus, legendary founders of Rome.</dc:description>
+      <dc:description>Date created: c. 500 BCE or c. 800 CE? (Boys underneath, 15th century CE)</dc:description>
+      <dc:description>Current location: Museo Capitolino, Rome.</dc:description>
+      <dc:description>Medium: Bronze.</dc:description>
+      <dc:description>Measurements: 85 cm tall.</dc:description>
+      <dc:description>Accession Number: 14.8493-6.11</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>-0500</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Sculpture, Etruscan.</dcadesc:subject>
+      <dcadesc:subject>Sculpture, Renaissance.</dcadesc:subject>
+      <dcadesc:subject>Roman she-wolf (Roman mythology)</dcadesc:subject>
+      <dcadesc:genre>Early Etruscan.</dcadesc:genre>
+      <dcadesc:genre>bronzes (visual works)</dcadesc:genre>
+      <dcadesc:genre>Renaissance.</dcadesc:genre>
+      <dc:temporal>5th century BCE.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-08-12T11:01:53.427-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>14.8493-6.12.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Head of a Man.</dc:title>
+      <dcterms:alternative>Brutus</dcterms:alternative>
+      <dc:description>Traditionally dated to about 300 BCE, this rendering of a strong, broad face is scrupulously detailed. The deep-set eyes are created with ivory inlay, and eyelashes are made from separately cut pieces of bronze. The head was once part of a bronze statue and may be an important Roman commission from an Etruscan artist.</dc:description>
+      <dc:description>Date created: c. 300 BCE.</dc:description>
+      <dc:description>Current location: Palazzo dei Conservatori, Rome.</dc:description>
+      <dc:description>Medium: Bronze with eyes of painted ivory.</dc:description>
+      <dc:description>Measurements: 31.8 cm tall.</dc:description>
+      <dc:description>Accession Number: 14.8493-6.12</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>-0300</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Portrait sculpture, Etruscan.</dcadesc:subject>
+      <dcadesc:genre>Late Etruscan.</dcadesc:genre>
+      <dcadesc:genre>bronzes (visual works)</dcadesc:genre>
+      <dc:temporal>3rd century BCE.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-08-12T11:01:53.427-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>14.8493-6.13.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Portrait Head of an Elder From Scoppito.</dc:title>
+      <dc:description>This portrait of Roman patrician is an example of the new Roman realistic artistic ideal which is different from the idealized depictions of the classical Greek period. This man's face shows clear marks along the forehead and wrinkles along his jaw line suggest age.</dc:description>
+      <dc:description/>
+      <dc:description>Location created: Rome, Italy.</dc:description>
+      <dc:description>Date created: 1st century BCE.</dc:description>
+      <dc:description>Current location: Museo Nazionale, Chieti.</dc:description>
+      <dc:description>Medium: marble.</dc:description>
+      <dc:description>Measurements: 28 cm tall.</dc:description>
+      <dc:description>Accession Number: 14.8493-6.13</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>-0100</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Portrait sculpture, Roman.</dcadesc:subject>
+      <dcadesc:subject>Busts, Roman.</dcadesc:subject>
+      <dcadesc:genre>marble (rock)</dcadesc:genre>
+      <dcadesc:genre>Roman (ancient Italian culture or period)</dcadesc:genre>
+      <dcadesc:genre>busts.</dcadesc:genre>
+      <dc:temporal>1st century BCE.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-08-12T11:01:53.427-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>14.8493-6.14.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Patrician Carrying Portrait Busts of Two Ancestors.</dc:title>
+      <dcterms:alternative>Barberini Togatus</dcterms:alternative>
+      <dc:description>This life-size statue of a Roman Patrician dates from the period of Emperor Augustus. The large marble format emulates Greek sculpture, but the toga signifies his respectability as a Roman citizen of some standing. The busts he holds document his distinguished lineage in the upper class. The head of the standing figure, though ancient Roman in origin, is a later replacement and not original to the statue.</dc:description>
+      <dc:description>Location created: Rome.</dc:description>
+      <dc:description>Date created: end of 1st century BCE or beginning of 1st century CE.</dc:description>
+      <dc:description>Current location: Palazzo de Conservatori, Rome.</dc:description>
+      <dc:description>Medium: Marble.</dc:description>
+      <dc:description>Measurements: 1.65m tall.</dc:description>
+      <dc:description>Accession Number: 14.8493-6.14</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>0100</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Portrait sculpture, Roman.</dcadesc:subject>
+      <dcadesc:subject>Busts, Roman.</dcadesc:subject>
+      <dcadesc:subject>Statues--Italy.</dcadesc:subject>
+      <dcadesc:genre>marble (rock)</dcadesc:genre>
+      <dcadesc:genre>Roman (ancient Italian culture or period)</dcadesc:genre>
+      <dcadesc:genre>statues.</dcadesc:genre>
+      <dcadesc:genre>busts.</dcadesc:genre>
+      <dc:temporal>1st century.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-08-12T11:01:53.427-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>14.8493-6.15.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Aulus Metellus (The Orator).</dc:title>
+      <dcterms:alternative>The Orator</dcterms:alternative>
+      <dc:description>This life-size portrait of Aulus Metellus has his name inscribed along the hem of the garment in Etruscan letters. His arm is stretched out as if to address a crowd.</dc:description>
+      <dc:description>Location created: Perugia, Italy.</dc:description>
+      <dc:description>Date created: c. 80 BCE.</dc:description>
+      <dc:description>Current location: Museo Archeologico Nazionale, Florence, Italy.</dc:description>
+      <dc:description>Medium: Bronze.</dc:description>
+      <dc:description>Measurements: 1.8m tall.</dc:description>
+      <dc:description>Accession Number: 14.8493-6.15</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>-0080</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Portrait sculpture, Roman.</dcadesc:subject>
+      <dcadesc:subject>Statues--Italy.</dcadesc:subject>
+      <dcadesc:genre>marble (rock)</dcadesc:genre>
+      <dcadesc:genre>Roman (ancient Italian culture or period)</dcadesc:genre>
+      <dcadesc:genre>statues.</dcadesc:genre>
+      <dc:temporal>1st century BCE.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-08-12T11:01:53.427-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>14.8493-6.16.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Denarius with Portrait of Julius Caesar.</dc:title>
+      <dc:description>Full profile view of Julius Caesar, denoted by the wreath or crown around his head and the markings on the coin.</dc:description>
+      <dc:description>Location created: Rome, Italy.</dc:description>
+      <dc:description>Date created: 44 BCE.</dc:description>
+      <dc:description>Current location: American Numismatic Society, New York.</dc:description>
+      <dc:description>Medium: Silver.</dc:description>
+      <dc:description>Measurements: 1.9cm diameter.</dc:description>
+      <dc:description>Accession Number: 14.8493-6.16</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>-0044</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Coins, Roman.</dcadesc:subject>
+      <dcadesc:persname>Caesar, Julius.</dcadesc:persname>
+      <dcadesc:genre>Roman (ancient Italian culture or period)</dcadesc:genre>
+      <dcadesc:genre>coins (money)</dcadesc:genre>
+      <dcadesc:genre>denarii.</dcadesc:genre>
+      <dcadesc:genre>silver (metal)</dcadesc:genre>
+      <dc:temporal>1st century BCE.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-08-12T11:01:53.427-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>14.8493-6.17.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Pont du Gard.</dc:title>
+      <dc:description>This Roman bridge using rounded arches is part of an aqueduct located near Nimes, France. The aqueduct, built with arcades (linear series of arches), brought water from springs 30 miles north of the city using simple gravity flow.</dc:description>
+      <dc:description>Location created: Nimes, France.</dc:description>
+      <dc:description>Date created: Late 1st century BCE.</dc:description>
+      <dc:description>Measurements: 49m tall, 6m wide.</dc:description>
+      <dc:description>Accession Number: 14.8493-6.17</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>-0001</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Architecture, Roman.</dcadesc:subject>
+      <dcadesc:subject>Aqueducts--France.</dcadesc:subject>
+      <dcadesc:genre>Roman (ancient Italian culture or period)</dcadesc:genre>
+      <dcadesc:genre>aqueducts.</dcadesc:genre>
+      <dc:temporal>1st century BCE.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-08-12T11:01:53.427-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>14.8493-6.18a.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Exterior view of a Temple, Perhaps Dedicated to Portunus.</dc:title>
+      <dc:description>This Roman temple, built beside the Tiber River, was probably dedicated to Portunus, the god of harbors and ports. It is an early example of a small rectangular temple standing on a platform, or podium. The temple uses the Etruscan system of rectangular cella and a front porch at one end, a broad flight of steps, and a continuous frieze in the entablature.</dc:description>
+      <dc:description>Location created: Forum Boarium (Cattle Market), Rome, Italy.</dc:description>
+      <dc:description>Date created: Late 2nd century BCE.</dc:description>
+      <dc:description>Accession Number: 14.8493-6.18a</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>-0100</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Architecture, Roman.</dcadesc:subject>
+      <dcadesc:subject>Temples, Roman.</dcadesc:subject>
+      <dcadesc:persname>Portunus (Roman deity)</dcadesc:persname>
+      <dcadesc:geogname>Rome (Italy)</dcadesc:geogname>
+      <dcadesc:genre>Ionic order.</dcadesc:genre>
+      <dcadesc:genre>Roman (ancient Italian culture or period)</dcadesc:genre>
+      <dcadesc:genre>temples (buildings)</dcadesc:genre>
+      <dc:temporal>2nd century BCE.</dc:temporal>
+      <dc:spatial>Italy--Rome.</dc:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-08-12T11:01:53.427-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>14.8493-6.18b.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Plan of a Temple, Perhaps Dedicated to Portunus.</dc:title>
+      <dc:description>This Roman temple, built beside the Tiber River, was probably dedicated to Portunus, the god of harbors and ports. It is an early example of a small rectangular temple standing on a platform, or podium. The temple uses the Etruscan system of rectangular cella and a front porch at one end, a broad flight of steps, and a continuous frieze in the entablature.</dc:description>
+      <dc:description>Location created: Forum Boarium (Cattle Market), Rome, Italy.</dc:description>
+      <dc:description>Date created: Late 2nd century BCE.</dc:description>
+      <dc:description>Accession Number: 14.8493-6.18b</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>-0100</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Architecture, Roman.</dcadesc:subject>
+      <dcadesc:subject>Temples, Roman.</dcadesc:subject>
+      <dcadesc:persname>Portunus (Roman deity)</dcadesc:persname>
+      <dcadesc:geogname>Rome (Italy)</dcadesc:geogname>
+      <dcadesc:genre>Roman (ancient Italian culture or period)</dcadesc:genre>
+      <dcadesc:genre>temples (buildings)</dcadesc:genre>
+      <dcadesc:genre>floor plans.</dcadesc:genre>
+      <dc:temporal>2nd century BCE.</dc:temporal>
+      <dc:spatial>Italy--Rome.</dc:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-08-12T11:01:53.427-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>.</dc:title>
+      <dc:description>Accession Number: </dc:description>
+      <dc:source/>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created/>
+      <dc:type/>
+      <dc:format/>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-08-12T11:01:53.427-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>.</dc:title>
+      <dc:description>Accession Number: </dc:description>
+      <dc:source/>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created/>
+      <dc:type/>
+      <dc:format/>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-08-12T11:01:53.427-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>14.8493-6.19.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Augustus of Primaporta.</dc:title>
+      <dcterms:alternative>Augustus of Prima Porta</dcterms:alternative>
+      <dc:description>This sculpture of Augustus depicts him as he wanted to be seen and remembered, with his arm raised, gesturing which suggests his role as leader, in the pose of a Roman orator. The Cupid at his feet riding on a dolphin refers to the emperor's lineage from the goddess Venus. His breast plate shows many scenes that depict his military and political power.</dc:description>
+      <dc:description>Location created: Livia's Villa, Primaporta, Italy.</dc:description>
+      <dc:description>Date created: Early 1st century BCE.</dc:description>
+      <dc:description>Current location: Musei Vaticani, Braccio Nuovo, Rome.</dc:description>
+      <dc:description>Medium: Marble.</dc:description>
+      <dc:description>Measurements: 2.03 m tall.</dc:description>
+      <dc:description>Accession Number: 14.8493-6.19</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>-0100</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Portrait sculpture, Roman.</dcadesc:subject>
+      <dcadesc:subject>Kings and rulers in art.</dcadesc:subject>
+      <dcadesc:subject>Dolphins in art.</dcadesc:subject>
+      <dcadesc:subject>Art, Roman.</dcadesc:subject>
+      <dcadesc:persname>Augustus, Emperor of Rome, 63 B.C.-14 A.D.</dcadesc:persname>
+      <dcadesc:persname>Cupid (Roman deity)--Art.</dcadesc:persname>
+      <dcadesc:genre>Early Imperial.</dcadesc:genre>
+      <dcadesc:genre>marble (rock)</dcadesc:genre>
+      <dcadesc:genre>sculpture (visual work)</dcadesc:genre>
+      <dc:temporal>1st century BCE.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-08-12T11:01:53.427-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>14.8493-6.20.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Ara Pacis Augustae.</dc:title>
+      <dcterms:alternative>Altar of Augustan Peace</dcterms:alternative>
+      <dcterms:alternative>Ara Pacis (Rome, Italy)</dcterms:alternative>
+      <dcterms:alternative>Altar of Peace (Rome, Italy)</dcterms:alternative>
+      <dcterms:alternative>Altar of Peace of Augustus (Rome, Italy)</dcterms:alternative>
+      <dcterms:alternative>Ara Pacis Augustae (Rome, Italy)</dcterms:alternative>
+      <dcterms:contributor>Augustus, Emperor of Rome, 63 B.C.-14 A.D.</dcterms:contributor>
+      <dc:description>This monument was begun when the emperor Augustus was 50. This general view from the front shows the walled rectangular enclosure surrounding an open-air altar, emulating Greek custom. Marble panels are carved with elaborate sculpture presenting powerful propaganda, uniting portraiture and allegory, religion and politics, the private and public.</dc:description>
+      <dc:description>Location created: Rome, Italy.</dc:description>
+      <dc:description>Date created: 13-9 BCE.</dc:description>
+      <dc:description>Medium: Marble.</dc:description>
+      <dc:description>Measurements: 10.5x11.6m.</dc:description>
+      <dc:description>Accession Number: 14.8493-6.20</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>-0013</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Altars--Italy.</dcadesc:subject>
+      <dcadesc:subject>Relief (Sculpture), Roman--Italy--Rome.</dcadesc:subject>
+      <dcadesc:subject>Marble sculpture, Roman--Italy--Rome.</dcadesc:subject>
+      <dcadesc:geogname>Rome (Italy)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>Early Imperial.</dcadesc:genre>
+      <dcadesc:genre>marble (rock)</dcadesc:genre>
+      <dcadesc:genre>altars.</dcadesc:genre>
+      <dcadesc:genre>reliefs (sculptures)</dcadesc:genre>
+      <dc:temporal>1st century BCE.</dc:temporal>
+      <dc:spatial>Italy--Rome.</dc:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-08-12T11:01:53.427-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>14.8493-6.21.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Reconstruction Drawing of the Ara Pacis Augustae.</dc:title>
+      <dcterms:alternative>Drawing of the Ara Pacis Augustae</dcterms:alternative>
+      <dcterms:alternative>Drawing of the Altar of Augustan Peace</dcterms:alternative>
+      <dcterms:alternative>Drawing of the Altar of Peace of Augustus (Rome, Italy)</dcterms:alternative>
+      <dc:description>This reconstruction drawing of the Ara Pacis shows the monument shows the walled rectangular enclosure surrounding an open-air altar, emulating Greek custom. Marble panels are carved with elaborate sculpture presenting powerful propaganda, uniting portraiture and allegory, religion and politics, the private and public.</dc:description>
+      <dc:description>Location created: Rome, Italy.</dc:description>
+      <dc:description>Date created: 13-9 BCE.</dc:description>
+      <dc:description>Medium: Reconstruction drawing.</dc:description>
+      <dc:description>Measurements: 10.5x11.6m.</dc:description>
+      <dc:description>Accession Number: 14.8493-6.21</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>-009</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Altars--Italy.</dcadesc:subject>
+      <dcadesc:subject>Relief (Sculpture), Roman--Italy--Rome.</dcadesc:subject>
+      <dcadesc:subject>Marble sculpture, Roman--Italy--Rome.</dcadesc:subject>
+      <dcadesc:geogname>Rome (Italy)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>Early Imperial.</dcadesc:genre>
+      <dcadesc:genre>marble (rock)</dcadesc:genre>
+      <dcadesc:genre>altars.</dcadesc:genre>
+      <dcadesc:genre>reliefs (sculptures)</dcadesc:genre>
+      <dcadesc:genre>architectural drawings (visual works)</dcadesc:genre>
+      <dc:temporal>1st century BCE.</dc:temporal>
+      <dc:spatial>Italy--Rome.</dc:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-08-12T11:01:53.427-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>14.8493-6.22.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Imperial Procession on the Ara Pacis.</dc:title>
+      <dcterms:alternative>Ara Pacis Augustae</dcterms:alternative>
+      <dcterms:alternative>Altar of Augustan Peace</dcterms:alternative>
+      <dcterms:alternative>Altar of Peace of Augustus (Rome, Italy)</dcterms:alternative>
+      <dc:description>This is a detail of a relief on the south side of the Ara Pacis. The figures in this frieze represent members of Augustus' extended family as well as scholars. The depiction of children and real women in an official relief was new to the Augustinian period and reflects Augustus' desire to promote private family life and to emphasize his potential heirs and thus the continuity of his dynasty</dc:description>
+      <dc:description>Location created: Rome, Italy.</dc:description>
+      <dc:description>Date created: 13-9 BCE.</dc:description>
+      <dc:description>Medium: Marble.</dc:description>
+      <dc:description>Measurements: 1.6 m.</dc:description>
+      <dc:description>Accession Number: 14.8493-6.22</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>-009</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Altars--Italy.</dcadesc:subject>
+      <dcadesc:subject>Relief (Sculpture), Roman--Italy--Rome.</dcadesc:subject>
+      <dcadesc:subject>Marble sculpture, Roman--Italy--Rome.</dcadesc:subject>
+      <dcadesc:subject>Families in art.</dcadesc:subject>
+      <dcadesc:persname>Augustus, Emperor of Rome, 63 B.C.-14 A.D.--Family.</dcadesc:persname>
+      <dcadesc:geogname>Rome (Italy)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>Early Imperial.</dcadesc:genre>
+      <dcadesc:genre>marble (rock)</dcadesc:genre>
+      <dcadesc:genre>altars.</dcadesc:genre>
+      <dcadesc:genre>reliefs (sculptures)</dcadesc:genre>
+      <dcadesc:genre>friezes (ornamental areas)</dcadesc:genre>
+      <dcadesc:genre>families.</dcadesc:genre>
+      <dc:temporal>1st century BCE.</dc:temporal>
+      <dc:spatial>Italy--Rome.</dc:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-08-12T11:01:53.427-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>14.8493-6.23.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Gemma Augustea.</dc:title>
+      <dcterms:alternative>Gem of Augustus</dcterms:alternative>
+      <dc:description>A large cameo (gemstone carved into low relief), the Gemma Augustea glorifies the Emperor Augustus as triumphant over barbarians. He sits in the top register crowed with a victors wreath, assuming the identity of Jupiter. The artist combines idealized, heroic figures based on Classical Greek art with recognizable Roman portraits.</dc:description>
+      <dc:description>Location created: Rome, Italy.</dc:description>
+      <dc:description>Date created: Early 1st century CE.</dc:description>
+      <dc:description>Current location: Kunsthistorisches Museum, Vienna.</dc:description>
+      <dc:description>Medium: Onyx.</dc:description>
+      <dc:description>Measurements: 19x23cm.</dc:description>
+      <dc:description>Accession Number: 14.8493-6.23</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>0100</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Cameos.</dcadesc:subject>
+      <dcadesc:subject>Gems, Ancient.</dcadesc:subject>
+      <dcadesc:subject>Emperors--Rome--Portraits.</dcadesc:subject>
+      <dcadesc:subject>Relief (Sculpture), Roman.</dcadesc:subject>
+      <dcadesc:subject>Victory in art.</dcadesc:subject>
+      <dcadesc:subject>Jewelry, Ancient.</dcadesc:subject>
+      <dcadesc:persname>Augustus, Emperor of Rome, 63 B.C.-14 A.D.</dcadesc:persname>
+      <dcadesc:genre>Early Imperial.</dcadesc:genre>
+      <dcadesc:genre>cameos.</dcadesc:genre>
+      <dcadesc:genre>onyx (mineral)</dcadesc:genre>
+      <dcadesc:genre>bas-reliefs (sculpture)</dcadesc:genre>
+      <dc:temporal>1st century CE.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-08-12T11:01:53.427-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>14.8493-6.24.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Aerial View of the Ruins of Pompeii.</dc:title>
+      <dcterms:alternative>Ruins of Pompeii</dcterms:alternative>
+      <dcterms:alternative>Pompeii</dcterms:alternative>
+      <dc:description>In 79 CE Mt. Vesuvius erupted, burying the city of Pompeii under 20 feet of volcanic ash and preserving it until its rediscovery and excavation beginning in the 18th century. Temples and government buildings surrounded a main square, or forum; shops and houses lined mostly straight, paved streets and a protective wall surrounded the heart of the city.</dc:description>
+      <dc:description>Location created: Pompeii.</dc:description>
+      <dc:description>Date created: Destroyed in 79 CE.</dc:description>
+      <dc:description>Accession Number: 14.8493-6.24</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>0079</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Extinct cities--Italy.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Roman.</dcadesc:subject>
+      <dcadesc:geogname>Pompeii (Extinct city)</dcadesc:geogname>
+      <dcadesc:geogname>Italy--Antiquities.</dcadesc:geogname>
+      <dcadesc:genre>Early Imperial.</dcadesc:genre>
+      <dcadesc:genre>ruins.</dcadesc:genre>
+      <dcadesc:genre>aerial photographs.</dcadesc:genre>
+      <dc:temporal>1st century.</dc:temporal>
+      <dc:spatial>Italy--Pompeii (Extinct city)</dc:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-08-12T11:01:53.427-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>14.8493-6.25.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Reconstruction Drawing of Central Pompeii in its Current State.</dc:title>
+      <dcterms:alternative>Drawing of Pompeii</dcterms:alternative>
+      <dc:description>In 79 CE Mt. Vesuvius erupted, burying the city of Pompeii under 20 feet of volcanic ash and preserving it until its rediscovery and excavation beginning in the 18th century. Temples and government buildings surrounded a main square, or forum; shops and houses lined mostly straight, paved streets and a protective wall surrounded the heart of the city. This drawing of Central Pompeii shows its current state.</dc:description>
+      <dc:description>Location created: Pompeii.</dc:description>
+      <dc:description>Date created: Destroyed in 79 CE.</dc:description>
+      <dc:description>Accession Number: 14.8493-6.25</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>0079</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Extinct cities--Italy.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Roman.</dcadesc:subject>
+      <dcadesc:geogname>Pompeii (Extinct city)</dcadesc:geogname>
+      <dcadesc:geogname>Italy--Antiquities.</dcadesc:geogname>
+      <dcadesc:genre>Early Imperial.</dcadesc:genre>
+      <dcadesc:genre>ruins.</dcadesc:genre>
+      <dcadesc:genre>reconstructions (visual works)</dcadesc:genre>
+      <dc:temporal>1st century.</dc:temporal>
+      <dc:spatial>Italy--Pompeii (Extinct city)</dc:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-08-12T11:01:53.427-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>14.8493-6.26.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Plan and Reconstruction Drawing of the House of the Silver Wedding.</dc:title>
+      <dcterms:alternative>Plan of the House of the Silver Wedding</dcterms:alternative>
+      <dcterms:alternative>Drawing of House of the Silver Wedding</dcterms:alternative>
+      <dcterms:alternative>Casa delle Nozze d'argento (Pompeii)</dcterms:alternative>
+      <dc:description>This house plan and three- dimensional drawing is of the House of the Silver Wedding in Pompeii. It is an example of Roman houses which typically were designed around inner courtyards, with small rooms surrounding. The peristyle was a planted courtyard, enclosed by columns, and the atrium was a larger space with an impluvium (large pool for catching water).</dc:description>
+      <dc:description>Location created: Pompeii.</dc:description>
+      <dc:description>Date created: 1st century CE.</dc:description>
+      <dc:description>Accession Number: 14.8493-6.26</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>0100</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Dwellings--Italy.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Roman.</dcadesc:subject>
+      <dcadesc:subject>Extinct cities--Italy.</dcadesc:subject>
+      <dcadesc:geogname>Pompeii (Extinct city)</dcadesc:geogname>
+      <dcadesc:geogname>Italy--Antiquities.</dcadesc:geogname>
+      <dcadesc:genre>Early Imperial.</dcadesc:genre>
+      <dcadesc:genre>ruins.</dcadesc:genre>
+      <dcadesc:genre>reconstructions (visual works)</dcadesc:genre>
+      <dcadesc:genre>courtyard houses.</dcadesc:genre>
+      <dcadesc:genre>floor plans.</dcadesc:genre>
+      <dc:temporal>1st century.</dc:temporal>
+      <dc:spatial>Italy--Pompeii (Extinct city)</dc:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-08-12T11:01:53.427-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>14.8493-6.27.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Peristyle Garden, House of the Vettii.</dc:title>
+      <dcterms:alternative>Gardens of the House of the Vettii</dcterms:alternative>
+      <dc:description>This peristyle garden is in the House of the Vettii, one of the most famous of the luxurious residences in Pompeii. Roman houses were typically designed around inner courtyards, with small rooms surrounding. The peristyle was a planted courtyard, enclosed by columns, and the atrium was a larger space with an impluvium (large pool for catching water).</dc:description>
+      <dc:description>Location created: Pompeii.</dc:description>
+      <dc:description>Date created: 62-79 CE.</dc:description>
+      <dc:description>Accession Number: 14.8493-6.27</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>0079</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Courtyard gardens--Italy.</dcadesc:subject>
+      <dcadesc:subject>Dwellings--Italy.</dcadesc:subject>
+      <dcadesc:subject>Italy--Antiquities.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Roman.</dcadesc:subject>
+      <dcadesc:subject>Extinct cities--Italy.</dcadesc:subject>
+      <dcadesc:geogname>Pompeii (Extinct city)</dcadesc:geogname>
+      <dcadesc:geogname>Italy--Antiquities.</dcadesc:geogname>
+      <dcadesc:genre>Early Imperial.</dcadesc:genre>
+      <dcadesc:genre>peristyles (Roman courtyards)</dcadesc:genre>
+      <dcadesc:genre>private gardens.</dcadesc:genre>
+      <dc:temporal>1st century.</dc:temporal>
+      <dc:spatial>Italy--Pompeii (Extinct city)</dc:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-08-12T11:01:53.427-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>14.8493-6.28.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Plan of the House of the Vettii.</dc:title>
+      <dcterms:alternative>House of the Vettii</dcterms:alternative>
+      <dc:description>The House of the Vettii is one of the most famous of the luxurious residences in Pompeii. This plan shows that it was built on the axial house plan, with entrance leading through an atrium to peristyle garden, with small rooms surrounding. The peristyle was a planted courtyard, enclosed by columns, and the atrium was a larger space with an impluvium (large pool for catching water).</dc:description>
+      <dc:description>Location created: Pompeii.</dc:description>
+      <dc:description>Date created: 62-79 CE.</dc:description>
+      <dc:description>Accession Number: 14.8493-6.28</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>0079</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Dwellings--Italy.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Roman.</dcadesc:subject>
+      <dcadesc:subject>Extinct cities--Italy.</dcadesc:subject>
+      <dcadesc:geogname>Pompeii (Extinct city)</dcadesc:geogname>
+      <dcadesc:geogname>Italy--Antiquities.</dcadesc:geogname>
+      <dcadesc:genre>Early Imperial.</dcadesc:genre>
+      <dcadesc:genre>ruins.</dcadesc:genre>
+      <dcadesc:genre>courtyard houses.</dcadesc:genre>
+      <dcadesc:genre>floor plans.</dcadesc:genre>
+      <dc:temporal>1st century.</dc:temporal>
+      <dc:spatial>Italy--Pompeii (Extinct city)</dc:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-08-12T11:01:53.427-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>14.8493-6.29.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Wall Painting in the 'Ixion Room,' House of the Vettii.</dc:title>
+      <dcterms:alternative>Ixion Room, House of Vettii</dcterms:alternative>
+      <dc:description>The interior of the Ixion room, from the House of Vettii, has an example of the Fourth Style of wall painting. It is a culmination of the 1st-3rd styles of wall painting. The lower area of the walls are done in first style and imitate costly marble, above are large white panels featuring third style linear design, and the in the uppermost part are the fragmented architectural views. The framed picture illustrates a Greek mythological scene from the story of Ixion.</dc:description>
+      <dc:description>Location created: Pompeii.</dc:description>
+      <dc:description>Date created: 62-79 CE.</dc:description>
+      <dc:description>Accession Number: 14.8493-6.29</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>0079</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Dwellings--Italy.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Roman.</dcadesc:subject>
+      <dcadesc:subject>Extinct cities--Italy.</dcadesc:subject>
+      <dcadesc:subject>Mural painting and decoration.</dcadesc:subject>
+      <dcadesc:subject>Mythology, Greek, in art.</dcadesc:subject>
+      <dcadesc:geogname>Pompeii (Extinct city)</dcadesc:geogname>
+      <dcadesc:geogname>Italy--Antiquities.</dcadesc:geogname>
+      <dcadesc:genre>Early Imperial.</dcadesc:genre>
+      <dcadesc:genre>mural paintings (visual works)</dcadesc:genre>
+      <dcadesc:genre>Pompeian wall painting styles.</dcadesc:genre>
+      <dcadesc:genre>marble (rock)</dcadesc:genre>
+      <dc:temporal>1st century.</dc:temporal>
+      <dc:spatial>Italy--Pompeii (Extinct city)</dc:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-08-12T11:01:53.427-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>14.8493-6.30.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Initiation Rite of the Cult of Bacchus, Villa of the Mysteries.</dc:title>
+      <dcterms:alternative>Villa of the Mysteries</dcterms:alternative>
+      <dc:description>The series of figural murals in the Villa of Mysteries seem to portray initiation rites of a mystery religion, possibly the cult of Bacchus. These rituals were performed within homes as well as temples. Perhaps this room was a meeting place for such a cult; Bacchus (or Dionysus) was one of the most important dieties in Pompeii.</dc:description>
+      <dc:description>Location created: Pompeii.</dc:description>
+      <dc:description>Date created: c. 60-50 BCE.</dc:description>
+      <dc:description>Accession Number: 14.8493-6.30</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>-0050</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Architecture, Roman.</dcadesc:subject>
+      <dcadesc:subject>Extinct cities--Italy.</dcadesc:subject>
+      <dcadesc:subject>Dwellings--Italy.</dcadesc:subject>
+      <dcadesc:subject>Mural painting and decoration.</dcadesc:subject>
+      <dcadesc:subject>Mythology, Roman, in art.</dcadesc:subject>
+      <dcadesc:persname>Dionysus--(Greek deity)--Cult.</dcadesc:persname>
+      <dcadesc:geogname>Pompeii (Extinct city)</dcadesc:geogname>
+      <dcadesc:geogname>Italy--Antiquities.</dcadesc:geogname>
+      <dcadesc:genre>Early Imperial.</dcadesc:genre>
+      <dcadesc:genre>Second Style.</dcadesc:genre>
+      <dcadesc:genre>mural paintings (visual works)</dcadesc:genre>
+      <dc:temporal>1st century BCE.</dc:temporal>
+      <dc:spatial>Italy--Pompeii (Extinct city)</dc:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-08-12T11:01:53.427-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+</input>

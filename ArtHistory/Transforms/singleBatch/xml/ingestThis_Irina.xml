@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<input xmlns:dc="http://purl.org/dc/elements/1.1/"
+       xmlns:dcadesc="http://nils.lib.tufts.edu/dcadesc/"
+       xmlns:dcatech="http://nils.lib.tufts.edu/dcatech/"
+       xmlns:dcterms="http://purl.org/dc/terms/"
+       xmlns:admin="http://nils.lib.tufts.edu/dcaadmin/"
+       xmlns:ac="http://purl.org/dc/dcmitype/"
+       xmlns:rel="info:fedora/fedora-system:def/relations-external#">
+   <digitalObject>
+      <file>15.8493-9.13.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Plan and drawing of exterior of the Sultan Hasan Madrasa-Mausoleum-Mosque Complex, Cairo.</dc:title>
+      <dc:description>The Complex of Sultan Hasan was built between 1356 and 1363, and included a madrasa, congregational mosque, and mausoleum. The free-standing complex, which had a monumental domed mausoleum flanked by minarets, only one of which survives, is located in a prominent position below the Citadel, toward which the monumental portal is oriented. The muqarnas-hood portal occupies the entire length of the façade. The height of the exterior walls and the arrangement of the windows give the facades a strongly vertical emphasis.</dc:description>
+      <dc:description>Location created: Cairo, Egypt.</dc:description>
+      <dc:description>Date created: 1356-1363 CE.</dc:description>
+      <dc:description>Accession Number: 15.8493-9.13</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>1363</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Islamic architecture--Egypt--Cairo--Designs and plans.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Mameluke--Egypt--Cairo--Designs and plans.</dcadesc:subject>
+      <dcadesc:subject>Mosques--Egypt--Cairo--Designs and plans.</dcadesc:subject>
+      <dcadesc:corpname>Jamiʻ al-Sulṭān Ḥasan (Cairo, Egypt)</dcadesc:corpname>
+      <dcadesc:geogname>Cairo (Egypt)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>Mamluk (culture or style)</dcadesc:genre>
+      <dcadesc:genre>Islamic (culture or style)</dcadesc:genre>
+      <dcadesc:genre>architectural drawings (visual works)</dcadesc:genre>
+      <dcadesc:genre>exterior elevations.</dcadesc:genre>
+      <dcadesc:genre>floor plans.</dcadesc:genre>
+      <dcadesc:genre>madrasas (buildings)</dcadesc:genre>
+      <dcadesc:genre>mausoleums.</dcadesc:genre>
+      <dcadesc:genre>mosques (buildings)</dcadesc:genre>
+      <dcadesc:genre>minarets.</dcadesc:genre>
+      <dcadesc:genre>façades.</dcadesc:genre>
+      <dc:temporal>14th century.</dc:temporal>
+      <dc:spatial>Egypt--Cairo.</dc:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-09-16T09:37:52.935-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>15.8493-9.14a.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Qibla Wall with Mihrab and Minbar.</dc:title>
+      <dc:description>The Complex of Sultan Hasan was built between 1356 and 1363, and included a madrasa, congregational mosque, and mausoleum. The free-standing complex, which had a monumental domed mausoleum flanked by minarets, only one of which survives, is located in a prominent position below the Citadel, toward which the monumental portal is oriented. The muqarnas-hood portal occupies the entire length of the façade. The height of the exterior walls and the arrangement of the windows give the facades a strongly vertical emphasis.</dc:description>
+      <dc:description>Location created: Cairo, Egypt.</dc:description>
+      <dc:description>Date created: 1356-1363 CE.</dc:description>
+      <dc:description>Accession Number: 15.8493-9.14a</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>1363</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Mihrabs--Egypt--Cairo.</dcadesc:subject>
+      <dcadesc:subject>Minbars--Egypt--Cairo.</dcadesc:subject>
+      <dcadesc:subject>Islamic architecture--Egypt--Cairo.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Mameluke--Egypt--Cairo.</dcadesc:subject>
+      <dcadesc:subject>Mosques--Egypt--Cairo.</dcadesc:subject>
+      <dcadesc:corpname>Jamiʻ al-Sulṭān Ḥasan (Cairo, Egypt)</dcadesc:corpname>
+      <dcadesc:geogname>Cairo (Egypt)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>qibla walls.</dcadesc:genre>
+      <dcadesc:genre>mihrabs.</dcadesc:genre>
+      <dcadesc:genre>minbars.</dcadesc:genre>
+      <dcadesc:genre>Mamluk (culture or style)</dcadesc:genre>
+      <dcadesc:genre>Islamic (culture or style)</dcadesc:genre>
+      <dc:temporal>14th century.</dc:temporal>
+      <dc:spatial>Egypt--Cairo.</dc:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-09-16T09:37:52.935-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>15.8493-9.14b.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Qibla Wall with Mihrab and Minbar.</dc:title>
+      <dc:description>The Complex of Sultan Hasan was built between 1356 and 1363, and included a madrasa, congregational mosque, and mausoleum. The free-standing complex, which had a monumental domed mausoleum flanked by minarets, only one of which survives, is located in a prominent position below the Citadel, toward which the monumental portal is oriented. The muqarnas-hood portal occupies the entire length of the façade. The height of the exterior walls and the arrangement of the windows give the facades a strongly vertical emphasis.</dc:description>
+      <dc:description>Location created: Cairo, Egypt.</dc:description>
+      <dc:description>Date created: 1356-1363 CE.</dc:description>
+      <dc:description>Accession Number: 15.8493-9.14b</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>1363</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Mihrabs--Egypt--Cairo.</dcadesc:subject>
+      <dcadesc:subject>Minbars--Egypt--Cairo.</dcadesc:subject>
+      <dcadesc:subject>Islamic architecture--Egypt--Cairo.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Mameluke--Egypt--Cairo.</dcadesc:subject>
+      <dcadesc:subject>Mosques--Egypt--Cairo.</dcadesc:subject>
+      <dcadesc:corpname>Jamiʻ al-Sulṭān Ḥasan (Cairo, Egypt)</dcadesc:corpname>
+      <dcadesc:geogname>Cairo (Egypt)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>qibla walls.</dcadesc:genre>
+      <dcadesc:genre>mihrabs.</dcadesc:genre>
+      <dcadesc:genre>minbars.</dcadesc:genre>
+      <dcadesc:genre>Mamluk (culture or style)</dcadesc:genre>
+      <dcadesc:genre>Islamic (culture or style)</dcadesc:genre>
+      <dc:temporal>14th century.</dc:temporal>
+      <dc:spatial>Egypt--Cairo.</dc:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-09-16T09:37:52.935-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>15.8493-9.14c.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>The Sultan Hasan Madrasa-Mausoleum-Mosque Complex, Cairo, Exterior View.</dc:title>
+      <dc:description>The Complex of Sultan Hasan was built between 1356 and 1363, and included a madrasa, congregational mosque, and mausoleum. The free-standing complex, which had a monumental domed mausoleum flanked by minarets, only one of which survives, is located in a prominent position below the Citadel, toward which the monumental portal is oriented. The muqarnas-hood portal occupies the entire length of the façade. The height of the exterior walls and the arrangement of the windows give the facades a strongly vertical emphasis.</dc:description>
+      <dc:description>Location created: Cairo, Egypt.</dc:description>
+      <dc:description>Date created: 1356-1363 CE.</dc:description>
+      <dc:description>Accession Number: 15.8493-9.14c</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>1363</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Islamic architecture--Egypt--Cairo.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Mameluke--Egypt--Cairo.</dcadesc:subject>
+      <dcadesc:subject>Mosques--Egypt--Cairo.</dcadesc:subject>
+      <dcadesc:corpname>Jamiʻ al-Sulṭān Ḥasan (Cairo, Egypt)</dcadesc:corpname>
+      <dcadesc:geogname>Cairo (Egypt)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>madrasas (buildings)</dcadesc:genre>
+      <dcadesc:genre>mausoleums.</dcadesc:genre>
+      <dcadesc:genre>mosques (buildings)</dcadesc:genre>
+      <dcadesc:genre>minarets.</dcadesc:genre>
+      <dcadesc:genre>façades.</dcadesc:genre>
+      <dcadesc:genre>exterior views.</dcadesc:genre>
+      <dcadesc:genre>Mamluk (culture or style)</dcadesc:genre>
+      <dcadesc:genre>Islamic (culture or style)</dcadesc:genre>
+      <dc:temporal>14th century.</dc:temporal>
+      <dc:spatial>Egypt--Cairo.</dc:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-09-16T09:37:52.935-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>15.8493-9.14d.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Qibla Wall with Mihrab and Minbar.</dc:title>
+      <dc:description>The Complex of Sultan Hasan was built between 1356 and 1363, and included a madrasa, congregational mosque, and mausoleum. The free-standing complex, which had a monumental domed mausoleum flanked by minarets, only one of which survives, is located in a prominent position below the Citadel, toward which the monumental portal is oriented. The muqarnas-hood portal occupies the entire length of the façade. The height of the exterior walls and the arrangement of the windows give the facades a strongly vertical emphasis.</dc:description>
+      <dc:description>Location created: Cairo, Egypt.</dc:description>
+      <dc:description>Date created: 1356-1363 CE.</dc:description>
+      <dc:description>Accession Number: 15.8493-9.14d</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>1363</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Mihrabs--Egypt--Cairo.</dcadesc:subject>
+      <dcadesc:subject>Minbars--Egypt--Cairo.</dcadesc:subject>
+      <dcadesc:subject>Islamic architecture--Egypt--Cairo.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Mameluke--Egypt--Cairo.</dcadesc:subject>
+      <dcadesc:subject>Mosques--Egypt--Cairo.</dcadesc:subject>
+      <dcadesc:corpname>Jamiʻ al-Sulṭān Ḥasan (Cairo, Egypt)</dcadesc:corpname>
+      <dcadesc:geogname>Cairo (Egypt)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>qibla walls.</dcadesc:genre>
+      <dcadesc:genre>mihrabs.</dcadesc:genre>
+      <dcadesc:genre>minbars.</dcadesc:genre>
+      <dcadesc:genre>Mamluk (culture or style)</dcadesc:genre>
+      <dcadesc:genre>Islamic (culture or style)</dcadesc:genre>
+      <dc:temporal>14th century.</dc:temporal>
+      <dc:spatial>Egypt--Cairo.</dc:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-09-16T09:37:52.935-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>15.8493-9.15.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Court of the Lions, Alhambra.</dc:title>
+      <dcterms:alternative>Palacio de los Leones</dcterms:alternative>
+      <dc:description>Sultan Muhammad V built the Palace of the Lions' most celebrated feature in the 14th century, a fountain with a complex hydraulic system consisting of a marble basin on the backs of twelve carved stone lions situated at the intersection of two water channels that form a cross in the rectilinear courtyard. An arched covered patio encircles the courtyard and displays fine stucco carvings held up by a series of slender columns. Two decorative pavilions protrude into the courtyard on an East-West (cross-axial) in the chahar bagh style, accentuating the royal spaces behind them.</dc:description>
+      <dc:description>Location created: Granada, Spain.</dc:description>
+      <dc:description>Date created: 1354-1391 CE.</dc:description>
+      <dc:description>Accession Number: 15.8493-9.15</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>1391</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Islamic architecture--Spain--Granada.</dcadesc:subject>
+      <dcadesc:subject>Courtyards--Spain--Granada.</dcadesc:subject>
+      <dcadesc:subject>Lion in art.</dcadesc:subject>
+      <dcadesc:subject>Architecture--Spain--Islamic influences.</dcadesc:subject>
+      <dcadesc:subject>Water and architecture.</dcadesc:subject>
+      <dcadesc:corpname>Alhambra (Granada, Spain)</dcadesc:corpname>
+      <dcadesc:geogname>Granada (Spain)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>courtyards.</dcadesc:genre>
+      <dcadesc:genre>fountains.</dcadesc:genre>
+      <dcadesc:genre>arches.</dcadesc:genre>
+      <dcadesc:genre>stuccowork.</dcadesc:genre>
+      <dcadesc:genre>arcades (structural assemblies)</dcadesc:genre>
+      <dcadesc:genre>muqarnas.</dcadesc:genre>
+      <dcadesc:genre>chahar bagh.</dcadesc:genre>
+      <dcadesc:genre>Spanish Islamic.</dcadesc:genre>
+      <dcadesc:genre>Islamic (culture or style)</dcadesc:genre>
+      <dc:temporal>14th century.</dc:temporal>
+      <dc:spatial>Spain--Granada.</dc:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-09-16T09:37:52.935-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>15.8493-9.16.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Muqarnas Dome, Hall of the Abencerrajes, Palace of the Lions, Alhambra.</dc:title>
+      <dcterms:alternative>Sala de los Mocárabes</dcterms:alternative>
+      <dc:description>To the West of the courtyard in the Palace of the Lions is the Muqarnas Chamber, which may have functioned as an antechamber and was near the original entrance to the palace. It takes its name from the intricately carved system of brackets called "muqarnas" that hold up the vaulted ceiling. Two decorative pavilions protrude into the courtyard on an East-West (cross-axial) in the chahar bagh style, accentuating the royal spaces behind them Stucco ornament or muqarnas is suspended from the dome. This turns the ceiling into an incomprehensible eight pointed star through the use of squinches. s a form of architectural ornamented vaulting, the "geometric subdivision of a squinch, or cupola, or corbel, into a large number of miniature squinches, producing a sort of cellular structure", sometimes also called "honeycomb" vaults from their resemblance to these. They are used for domes, and especially half-domes in entrances and apses, mostly in traditional Islamic and Persian architecture.</dc:description>
+      <dc:description>Location created: Granada, Spain.</dc:description>
+      <dc:description>Date created: 1354-1391 CE.</dc:description>
+      <dc:description>Accession Number: 15.8493-9.16</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>1391</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Islamic domes--Spain--Granada.</dcadesc:subject>
+      <dcadesc:subject>Vaults (Architecture)--Spain--Granada.</dcadesc:subject>
+      <dcadesc:subject>Islamic architecture--Spain--Granada.</dcadesc:subject>
+      <dcadesc:subject>Architecture--Spain--Islamic influences.</dcadesc:subject>
+      <dcadesc:corpname>Alhambra (Granada, Spain)</dcadesc:corpname>
+      <dcadesc:geogname>Granada (Spain)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>muqarnas.</dcadesc:genre>
+      <dcadesc:genre>anterooms.</dcadesc:genre>
+      <dcadesc:genre>stellar vaults.</dcadesc:genre>
+      <dcadesc:genre>stuccowork.</dcadesc:genre>
+      <dcadesc:genre>Spanish Islamic.</dcadesc:genre>
+      <dcadesc:genre>Islamic (culture or style)</dcadesc:genre>
+      <dc:temporal>14th century.</dc:temporal>
+      <dc:spatial>Spain--Granada.</dc:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-09-16T09:37:52.935-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>15.8493-9.17.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Tile Mosaic Mihrab.</dc:title>
+      <dcterms:alternative>Prayer Niche</dcterms:alternative>
+      <dc:description>This prayer niche, or mihrab, is in the style of the Timurids, who were known for using bright blue and white colors. It was originally set into the qibla wall of a theological school in Isfahan, now known as the Madrasa Imami, built just after the collapse of the Ilkhanid dynasty. The mihrab was created by joining a myriad of cut glazed tiles to produce its intricate arabesque and calligraphic designs. The inscription is of the five pillars of Islam.</dc:description>
+      <dc:description>Location created: Madrasa Imami, Isfahan, Iran.</dc:description>
+      <dc:description>Date created: Founded 1354 CE.</dc:description>
+      <dc:description>Current location: Metropolitan Museum of Art, New York.</dc:description>
+      <dc:description>Medium: Glazed and cute tiles.</dc:description>
+      <dc:description>Measurements: 3.43x2.89m.</dc:description>
+      <dc:description>Accession Number: 15.8493-9.17</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>1354</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Mihrabs--Iran--Iṣfahān.</dcadesc:subject>
+      <dcadesc:subject>Ceramics in architecture--Iran--Iṣfahān.</dcadesc:subject>
+      <dcadesc:subject>Tiles in interior decoration--Iran--Iṣfahān.</dcadesc:subject>
+      <dcadesc:subject>Islamic tiles--Iran--Iṣfahān.</dcadesc:subject>
+      <dcadesc:subject>Ceramic tiles--Iran--Iṣfahān.</dcadesc:subject>
+      <dcadesc:subject>Islamic decoration and ornament--Iran--Iṣfahān.</dcadesc:subject>
+      <dcadesc:subject>Islamic architecture--Iran--Iṣfahān.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Timurid--Iran--Iṣfahān.</dcadesc:subject>
+      <dcadesc:subject>Architectural inscriptions--Iran--Iṣfahān.</dcadesc:subject>
+      <dcadesc:subject>Pillars of Islam.</dcadesc:subject>
+      <dcadesc:geogname>Iṣfahān (Iran)--Antiquities.</dcadesc:geogname>
+      <dcadesc:genre>mihrabs.</dcadesc:genre>
+      <dcadesc:genre>Timurid.</dcadesc:genre>
+      <dcadesc:genre>Islamic (culture or style)</dcadesc:genre>
+      <dc:temporal>14th century.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-09-16T09:37:52.935-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>15.8493-9.18.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Shah-I Zinda Funerary Complex.</dc:title>
+      <dc:description>The Shah-i Zinda (lit. "the Living King") is a funerary complex, located on the south side of the Afrasiyab hill in the city of Samarqand. The focal point of the complex is the shrine of Qusam b. Abbas, a cousin of the Prophet Muhammad, who was reportedly beheaded on a site near Samarqand's wall during the seventh-century Arab conquests of Transoxania. Ascending from the southern slope of the Afrasiayab hill, the Shah-i Zinda complex consists of a narrow 200-meter alley or corridor, lined with some 40 funerary buildings, nearly half of which were revealed in excavations. The most striking aspect of the Shah-i Zinda is its exquisite tilework. The decorative programs of the funerary buildings display a wide range of motifs, materials and techniques.</dc:description>
+      <dc:description>Location created: Samarkand, Uzbekistan.</dc:description>
+      <dc:description>Date created: Late 14th-15th century CE.</dc:description>
+      <dc:description>Accession Number: 15.8493-9.18</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>1400</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Sepulchral monuments--Uzbekistan--Samarqand.</dcadesc:subject>
+      <dcadesc:subject>Tile facades--Uzbekistan--Samarqand.</dcadesc:subject>
+      <dcadesc:subject>Islamic architecture--Uzbekistan--Samarqand.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Timurid--Uzbekistan--Samarqand.</dcadesc:subject>
+      <dcadesc:subject>Islamic domes--Uzbekistan--Samarqand.</dcadesc:subject>
+      <dcadesc:corpname>Shāh-i Zindah (Samarqand, Uzbekistan)</dcadesc:corpname>
+      <dcadesc:geogname>Samarqand (Uzbekistan)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>sepulchral buildings.</dcadesc:genre>
+      <dcadesc:genre>wall tile (tile)</dcadesc:genre>
+      <dcadesc:genre>façades.</dcadesc:genre>
+      <dcadesc:genre>Late Islamic.</dcadesc:genre>
+      <dcadesc:genre>Timurid.</dcadesc:genre>
+      <dc:temporal>15th century.</dc:temporal>
+      <dc:spatial>Uzbekistan--Samarqand.</dc:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-09-16T09:37:52.935-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>15.8493-9.19.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Mina'I Bowl with Bahram Gur and Azada.</dc:title>
+      <dc:description>Some of the mina'i ceramics illustrate stories from the Persian epic, the Shahnama, predating its earliest surviving illustrated manuscripts by nearly a century. This bowl depicts the episode of Prince Bahram Gur hunting with Azada, his favorite concubine. Azada challenges Bahram Gur to a hunting feat, but when he succeeds, she pities the slain gazelles and reproaches him. In anger, he tramples her under his camel's feet. The painter has conflated two different moments into one scene.</dc:description>
+      <dc:description>Location created: Iran.</dc:description>
+      <dc:description>Date created: 12th-13th century CE.</dc:description>
+      <dc:description>Current location: Metropolitan Museum of Art, New York.</dc:description>
+      <dc:description>Historical period: Islamic.</dc:description>
+      <dc:description>Medium: Stonepaste; polychrome in-glaze and overglaze painted on opaque monochrome glaze (mina'i)</dc:description>
+      <dc:description>Measurements: 21.6cm diameter.</dc:description>
+      <dc:description>Accession Number: 15.8493-9.19</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>1200</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Islamic pottery.</dcadesc:subject>
+      <dcadesc:subject>Color in the ceramic industries.</dcadesc:subject>
+      <dcadesc:subject>Art pottery.</dcadesc:subject>
+      <dcadesc:subject>Stoneware.</dcadesc:subject>
+      <dcadesc:subject>Kings and rulers in art.</dcadesc:subject>
+      <dcadesc:subject>Hunting in art.</dcadesc:subject>
+      <dcadesc:persname>Bahrām V, King of Iran, -438.</dcadesc:persname>
+      <dcadesc:genre>Minai.</dcadesc:genre>
+      <dcadesc:genre>polychrome.</dcadesc:genre>
+      <dcadesc:genre>Late Islamic.</dcadesc:genre>
+      <dc:temporal>13th century.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-09-16T09:37:52.935-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>15.8493-9.20.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Baptistery of St. Louis.</dc:title>
+      <dcterms:alternative>Baptistère de Saint-Louis</dcterms:alternative>
+      <dc:creator>Muḥammad ibn al-Zayn, active approximately 1290-approximately 1310.</dc:creator>
+      <dc:description>This basin, known at the "Baptistery of St. Louis", was made in Mamluk Syria or Egypt during the first half of the fourteenth century. On the outer surface, the decorative panels, interspersed with roundels, depict running animals in the upper and lower bands. The center shows scenes of horsemen flanked by attendants, soldiers and falcons. Inside the basin, four oblong panels depict two hunting scenes, then two battle scenes. A shortage of silver prompted the development of inlaid brasswork which used precious silver sparingly. Date created: c. 1300 CE; Location created: Syria or Egypt; Current location: Musee du Louvre, Paris.</dc:description>
+      <dc:description>Medium: Hammered brass, gold, silver, and niello inlay.</dc:description>
+      <dc:description>Measurements: 22.2x50.2cm.</dc:description>
+      <dc:description>Accession Number: 15.8493-9.20</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>1300</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Islamic art metal-work.</dcadesc:subject>
+      <dcadesc:subject>Niello.</dcadesc:subject>
+      <dcadesc:subject>Bronze fonts, Medieval.</dcadesc:subject>
+      <dcadesc:subject>Basins (Containers)</dcadesc:subject>
+      <dcadesc:subject>Hunting in art.</dcadesc:subject>
+      <dcadesc:subject>Horsemen and horsewomen in art.</dcadesc:subject>
+      <dcadesc:genre>metalwork (visual works)</dcadesc:genre>
+      <dcadesc:genre>baptismal basins.</dcadesc:genre>
+      <dcadesc:genre>Mamluk (culture or style)</dcadesc:genre>
+      <dcadesc:genre>Late Islamic.</dcadesc:genre>
+      <dc:temporal>14th century.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-09-16T09:37:52.935-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>15.8493-9.21.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Qur'an Frontispiece.</dc:title>
+      <dc:description>The Qur'an to which this page belonged was donated in 1369 by Sultan Shaban to the madrasa established by his mother. In this frontispiece, the ornate design was possibly based on the geometric architectural structures common to the region. Its resemblance to court carpets was not coincidental, since designers often worked in more than one medium.</dc:description>
+      <dc:description>Location created: Cairo, Egypt.</dc:description>
+      <dc:description>Date created: c. 1368 CE.</dc:description>
+      <dc:description>Current location: National Library, Cairo MS. 7.</dc:description>
+      <dc:description>Medium: Ink, pigments, and gold on paper.</dc:description>
+      <dc:description>Measurements: 61x45.7cm.</dc:description>
+      <dc:description>Accession Number: 15.8493-9.21</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>1368</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Islamic illumination of books and manuscripts.</dcadesc:subject>
+      <dcadesc:subject>Frontispiece.</dcadesc:subject>
+      <dcadesc:subject>Qurʼan--Illustrations.</dcadesc:subject>
+      <dcadesc:subject>Islamic decoration and ornament.</dcadesc:subject>
+      <dcadesc:persname>Shaʻbān ibn Ḥusayn, Sultan of Egypt and Syria, 1353-1377.</dcadesc:persname>
+      <dcadesc:genre>frontispieces (illustrations)</dcadesc:genre>
+      <dcadesc:genre>ornaments.</dcadesc:genre>
+      <dcadesc:genre>Korans.</dcadesc:genre>
+      <dcadesc:genre>Mamluk (culture or style)</dcadesc:genre>
+      <dcadesc:genre>Late Islamic.</dcadesc:genre>
+      <dc:temporal>14th century.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-09-16T09:37:52.935-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>15.8493-9.22.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Yusuf Fleeing Zulayhka.</dc:title>
+      <dc:creator>Bihzād, active 16th century.</dc:creator>
+      <dc:description>In this miniature painting, which appears in a manuscript of 13th-century poet Sa'di's Bustan ("Orchard"), depicts a story from the Qur'an. Zulayhka, the wife of a chief of Misr, becomes infatuated with Yusuf, the chief's personal attendant. They became more intimate until Yusuf remembers that God can see everything. He refuses Zulayhka and as he leaves the room, she catches him by the garment, tearing a piece of it. She then produces the torn cloth as evidence to her husband and accuses Yusuf of rape.</dc:description>
+      <dc:description>Location created: Herat, Afghanistan.</dc:description>
+      <dc:description>Date created: 1488 CE.</dc:description>
+      <dc:description>Current location: National Library, Cairo, Egypt.</dc:description>
+      <dc:description>Medium: Ink and pigments on paper.</dc:description>
+      <dc:description>Measurements: 30.5x21.5cm.</dc:description>
+      <dc:description>Accession Number: 15.8493-9.22</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>1488</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Islamic miniature painting--Afghanistan--Herat.</dcadesc:subject>
+      <dcadesc:subject>Islamic illumination of books and manuscripts--Afghanistan--Herat.</dcadesc:subject>
+      <dcadesc:subject>Yūsuf and Zulaykhā.</dcadesc:subject>
+      <dcadesc:genre>miniatures (paintings)</dcadesc:genre>
+      <dcadesc:genre>illuminated manuscripts.</dcadesc:genre>
+      <dcadesc:genre>Late Islamic.</dcadesc:genre>
+      <dcadesc:genre>Timurid.</dcadesc:genre>
+      <dc:temporal>15th century.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-09-16T09:37:52.935-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>15.8493-9.23a.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>The Mosque of Sultan Selim, Edirine.</dc:title>
+      <dcterms:alternative>Selimiye Mosque</dcterms:alternative>
+      <dc:creator>Sinan, Mimar, 1489 or 1490-1588.</dc:creator>
+      <dc:description>This mosque was built by the Sultan Selim II, the son of Süleyman the Magnificent, between 1568 and 1574. Architect Sinan worked for the Sultan. Located in the Balkans, within the European lands of the Ottoman Empire, Edirne had been a capital of the Ottoman Empire in the 15th century before Istanbul and was effectively the second city of the Empire through the 17th century. The mosque's nearly square prayer hall is approached through a porticoed courtyard, making the central block of the complex rectangular, with four minarets and large dome. The mosque was highly influenced by Byzantine models, particularly Hagia Sophia.</dc:description>
+      <dc:description>Location created: Western Turkey.</dc:description>
+      <dc:description>Date created: 1568-1575 CE.</dc:description>
+      <dc:description>Accession Number: 15.8493-9.23a</dc:description>
+      <dc:source>Stokstad</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>1575</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Architecture, Ottoman--Turkey--Edirne.</dcadesc:subject>
+      <dcadesc:subject>Islamic architecture--Turkey--Edirne.</dcadesc:subject>
+      <dcadesc:subject>Mosques--Turkey--Edirne.</dcadesc:subject>
+      <dcadesc:subject>Minarets--Turkey--Edirne.</dcadesc:subject>
+      <dcadesc:subject>Islamic domes--Turkey--Edirne.</dcadesc:subject>
+      <dcadesc:persname>Selim II, Sultan of the Turks, 1524-1574.</dcadesc:persname>
+      <dcadesc:corpname>Selimiye Camii (Edirne, Turkey)</dcadesc:corpname>
+      <dcadesc:geogname>Edirne (Turkey)--Buildings, structures, etc.</dcadesc:geogname>
+      <dcadesc:genre>mosques (buildings)</dcadesc:genre>
+      <dcadesc:genre>domes (architectural elements)</dcadesc:genre>
+      <dcadesc:genre>Minarets.</dcadesc:genre>
+      <dcadesc:genre>Ottoman (style)</dcadesc:genre>
+      <dc:temporal>16th century.</dc:temporal>
+      <dc:spatial>Turkey--Edirne.</dc:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2015-09-16T09:37:52.935-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+   </digitalObject>
+</input>
