@@ -2,7 +2,7 @@
 <!--    
 CREATED BY: Alex May, Tisch Library
 CREATED ON: 2016-01-01
-UPDATED ON: 2016-01-01
+UPDATED ON: 2016-01-20
 This stylesheet converts the Fedora Object XML (FOXML) to a comma delimited file.
 -->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0"
